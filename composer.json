@@ -1,0 +1,9 @@
+{
+    "name": "ravenhill-coffee/project",
+    "type": "project",
+    "require": {
+        "setasign/fpdf": "1.8.2",
+        "setasign/fpdi": "2.6",
+        "google/apiclient": "2.15.0"
+    }
+}

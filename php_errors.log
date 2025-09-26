@@ -1,0 +1,211 @@
+[21-Sep-2025 12:34:48 Europe/Berlin] Database connection successful to 'ravenhill_final'
+[21-Sep-2025 12:34:50 Europe/Berlin] Database connection successful to 'ravenhill_final'
+[21-Sep-2025 12:34:50 Europe/Berlin] Failed to insert loyalty points: Cannot add or update a child row: a foreign key constraint fails (`ravenhill_final`.`loyalty_program`, CONSTRAINT `loyalty_program_ibfk_2` FOREIGN KEY (`order_id`) REFERENCES `orders` (`order_id`))
+[21-Sep-2025 12:34:50 Europe/Berlin] Order inserted check: 1 rows found for order_id: ORD-68CFD4CA3EBEA
+[21-Sep-2025 12:34:52 Europe/Berlin] Database connection successful to 'ravenhill_final'
+[21-Sep-2025 12:34:52 Europe/Berlin] Fetching orders for user_id: user_68ce0958478176.75086261
+[21-Sep-2025 12:34:52 Europe/Berlin] Found 1 orders for user
+[21-Sep-2025 12:35:13 Europe/Berlin] Database connection successful to 'ravenhill_final'
+[21-Sep-2025 12:35:13 Europe/Berlin] Fetching orders for user_id: user_68ce0958478176.75086261
+[21-Sep-2025 12:35:13 Europe/Berlin] Found 1 orders for user
+[21-Sep-2025 12:35:16 Europe/Berlin] Database connection successful to 'ravenhill_final'
+[21-Sep-2025 12:35:16 Europe/Berlin] Fetching orders for user_id: user_68ce0958478176.75086261
+[21-Sep-2025 12:35:16 Europe/Berlin] Found 1 orders for user
+[21-Sep-2025 12:35:21 Europe/Berlin] Database connection successful to 'ravenhill_final'
+[21-Sep-2025 12:35:21 Europe/Berlin] Fetching orders for user_id: user_68ce0958478176.75086261
+[21-Sep-2025 12:35:21 Europe/Berlin] Found 1 orders for user
+[21-Sep-2025 12:40:09 Europe/Berlin] Database connection successful to 'ravenhill_final'
+[21-Sep-2025 12:40:09 Europe/Berlin] Fetching orders for user_id: user_68ce0958478176.75086261
+[21-Sep-2025 12:40:09 Europe/Berlin] Found 1 orders for user
+[21-Sep-2025 12:40:20 Europe/Berlin] Database connection successful to 'ravenhill_final'
+[21-Sep-2025 12:40:20 Europe/Berlin] Fetching orders for user_id: user_68ce0958478176.75086261
+[21-Sep-2025 12:40:20 Europe/Berlin] Found 1 orders for user
+[21-Sep-2025 12:40:22 Europe/Berlin] Database connection successful to 'ravenhill_final'
+[21-Sep-2025 12:40:22 Europe/Berlin] Fetching orders for user_id: user_68ce0958478176.75086261
+[21-Sep-2025 12:40:22 Europe/Berlin] Found 1 orders for user
+[21-Sep-2025 12:40:22 Europe/Berlin] Database connection successful to 'ravenhill_final'
+[21-Sep-2025 12:40:22 Europe/Berlin] Fetching orders for user_id: user_68ce0958478176.75086261
+[21-Sep-2025 12:40:22 Europe/Berlin] Found 1 orders for user
+[21-Sep-2025 12:40:22 Europe/Berlin] Database connection successful to 'ravenhill_final'
+[21-Sep-2025 12:40:22 Europe/Berlin] Fetching orders for user_id: user_68ce0958478176.75086261
+[21-Sep-2025 12:40:22 Europe/Berlin] Found 1 orders for user
+[21-Sep-2025 12:40:22 Europe/Berlin] Database connection successful to 'ravenhill_final'
+[21-Sep-2025 12:40:22 Europe/Berlin] Fetching orders for user_id: user_68ce0958478176.75086261
+[21-Sep-2025 12:40:22 Europe/Berlin] Found 1 orders for user
+[21-Sep-2025 12:40:22 Europe/Berlin] Database connection successful to 'ravenhill_final'
+[21-Sep-2025 12:40:22 Europe/Berlin] Fetching orders for user_id: user_68ce0958478176.75086261
+[21-Sep-2025 12:40:22 Europe/Berlin] Found 1 orders for user
+[21-Sep-2025 12:40:23 Europe/Berlin] Database connection successful to 'ravenhill_final'
+[21-Sep-2025 12:40:23 Europe/Berlin] Fetching orders for user_id: user_68ce0958478176.75086261
+[21-Sep-2025 12:40:23 Europe/Berlin] Found 1 orders for user
+[21-Sep-2025 12:40:23 Europe/Berlin] Database connection successful to 'ravenhill_final'
+[21-Sep-2025 12:40:23 Europe/Berlin] Fetching orders for user_id: user_68ce0958478176.75086261
+[21-Sep-2025 12:40:23 Europe/Berlin] Found 1 orders for user
+[21-Sep-2025 12:40:36 Europe/Berlin] Database connection successful to 'ravenhill_final'
+[21-Sep-2025 12:40:36 Europe/Berlin] Fetching orders for user_id: user_68ce0958478176.75086261
+[21-Sep-2025 12:40:36 Europe/Berlin] Found 1 orders for user
+[21-Sep-2025 12:40:36 Europe/Berlin] Database connection successful to 'ravenhill_final'
+[21-Sep-2025 12:40:36 Europe/Berlin] Fetching orders for user_id: user_68ce0958478176.75086261
+[21-Sep-2025 12:40:36 Europe/Berlin] Found 1 orders for user
+[21-Sep-2025 12:40:37 Europe/Berlin] Database connection successful to 'ravenhill_final'
+[21-Sep-2025 12:40:37 Europe/Berlin] Fetching orders for user_id: user_68ce0958478176.75086261
+[21-Sep-2025 12:40:37 Europe/Berlin] Found 1 orders for user
+[21-Sep-2025 12:40:38 Europe/Berlin] Database connection successful to 'ravenhill_final'
+[21-Sep-2025 12:40:38 Europe/Berlin] Fetching orders for user_id: user_68ce0958478176.75086261
+[21-Sep-2025 12:40:38 Europe/Berlin] Found 1 orders for user
+[21-Sep-2025 12:40:40 Europe/Berlin] Database connection successful to 'ravenhill_final'
+[21-Sep-2025 12:40:40 Europe/Berlin] Fetching orders for user_id: user_68ce0958478176.75086261
+[21-Sep-2025 12:40:40 Europe/Berlin] Found 1 orders for user
+[21-Sep-2025 12:49:02 Europe/Berlin] Database connection successful to 'ravenhill_final'
+[21-Sep-2025 12:49:02 Europe/Berlin] Fetching orders for user_id: user_68ce0958478176.75086261
+[21-Sep-2025 12:49:02 Europe/Berlin] Found 1 orders for user
+[21-Sep-2025 12:49:46 Europe/Berlin] Database connection successful to 'ravenhill_final'
+[21-Sep-2025 12:49:46 Europe/Berlin] Fetching orders for user_id: user_68ce0958478176.75086261
+[21-Sep-2025 12:49:46 Europe/Berlin] Found 1 orders for user
+[21-Sep-2025 12:55:47 Europe/Berlin] Database connection successful to 'ravenhill_final'
+[21-Sep-2025 12:55:47 Europe/Berlin] Fetching orders for user_id: user_68ce0958478176.75086261
+[21-Sep-2025 12:55:47 Europe/Berlin] Found 1 orders for user
+[21-Sep-2025 13:13:07 Europe/Berlin] Database connection successful to 'ravenhill_final'
+[21-Sep-2025 13:13:07 Europe/Berlin] Fetching orders for user_id: user_68ce0958478176.75086261
+[21-Sep-2025 13:13:07 Europe/Berlin] Found 1 orders for user
+[21-Sep-2025 13:22:38 Europe/Berlin] Database connection successful to 'ravenhill_final'
+[21-Sep-2025 13:22:38 Europe/Berlin] Fetching orders for user_id: user_68ce0958478176.75086261
+[21-Sep-2025 13:22:38 Europe/Berlin] Found 1 orders for user
+[21-Sep-2025 13:22:43 Europe/Berlin] Database connection successful to 'ravenhill_final'
+[21-Sep-2025 13:22:43 Europe/Berlin] Fetching orders for user_id: user_68ce0958478176.75086261
+[21-Sep-2025 13:22:43 Europe/Berlin] Found 1 orders for user
+[21-Sep-2025 13:29:31 Europe/Berlin] Database connection successful to 'ravenhill_final'
+[21-Sep-2025 13:29:31 Europe/Berlin] Fetching orders for user_id: user_68ce0958478176.75086261
+[21-Sep-2025 13:29:31 Europe/Berlin] Found 1 orders for user
+[21-Sep-2025 13:30:50 Europe/Berlin] Database connection successful to 'ravenhill_final'
+[21-Sep-2025 13:30:50 Europe/Berlin] Fetching orders for user_id: user_68ce0958478176.75086261
+[21-Sep-2025 13:30:50 Europe/Berlin] Found 1 orders for user
+[21-Sep-2025 13:32:57 Europe/Berlin] Database connection successful to 'ravenhill_final'
+[21-Sep-2025 13:32:57 Europe/Berlin] Fetching orders for user_id: user_68ce0958478176.75086261
+[21-Sep-2025 13:32:57 Europe/Berlin] Found 1 orders for user
+[21-Sep-2025 13:33:01 Europe/Berlin] Database connection successful to 'ravenhill_final'
+[21-Sep-2025 13:33:01 Europe/Berlin] Fetching orders for user_id: user_68ce0958478176.75086261
+[21-Sep-2025 13:33:01 Europe/Berlin] Found 1 orders for user
+[21-Sep-2025 13:33:04 Europe/Berlin] Database connection successful to 'ravenhill_final'
+[21-Sep-2025 13:33:04 Europe/Berlin] Fetching orders for user_id: user_68ce0958478176.75086261
+[21-Sep-2025 13:33:04 Europe/Berlin] Found 1 orders for user
+[21-Sep-2025 13:35:02 Europe/Berlin] Database connection successful to 'ravenhill_final'
+[21-Sep-2025 13:35:02 Europe/Berlin] Fetching orders for user_id: user_68ce0958478176.75086261
+[21-Sep-2025 13:35:02 Europe/Berlin] Found 1 orders for user
+[21-Sep-2025 13:39:44 Europe/Berlin] Database connection successful to 'ravenhill_final'
+[21-Sep-2025 13:39:44 Europe/Berlin] Fetching orders for user_id: user_68ce0958478176.75086261
+[21-Sep-2025 13:39:44 Europe/Berlin] Found 1 orders for user
+[21-Sep-2025 13:41:45 Europe/Berlin] Database connection successful to 'ravenhill_final'
+[21-Sep-2025 13:41:45 Europe/Berlin] Fetching orders for user_id: user_68ce0958478176.75086261
+[21-Sep-2025 13:41:45 Europe/Berlin] Found 1 orders for user
+[21-Sep-2025 13:42:30 Europe/Berlin] Database connection successful to 'ravenhill_final'
+[21-Sep-2025 13:42:30 Europe/Berlin] Fetching orders for user_id: user_68ce0958478176.75086261
+[21-Sep-2025 13:42:30 Europe/Berlin] Found 1 orders for user
+[21-Sep-2025 14:31:14 Europe/Berlin] Database connection successful to 'ravenhill_final'
+[21-Sep-2025 14:31:14 Europe/Berlin] Fetching orders for user_id: user_68ce0958478176.75086261
+[21-Sep-2025 14:31:14 Europe/Berlin] Found 1 orders for user
+[21-Sep-2025 14:31:16 Europe/Berlin] Database connection successful to 'ravenhill_final'
+[21-Sep-2025 14:31:16 Europe/Berlin] Fetching orders for user_id: user_68ce0958478176.75086261
+[21-Sep-2025 14:31:16 Europe/Berlin] Found 1 orders for user
+[22-Sep-2025 13:36:57 Europe/Berlin] Database connection successful to 'ravenhill_final'
+[22-Sep-2025 13:36:57 Europe/Berlin] Fetching orders for user_id: user_68d134b52ca714.17439906
+[22-Sep-2025 13:36:57 Europe/Berlin] Found 0 orders for user
+[23-Sep-2025 02:23:25 Europe/Berlin] Database connection successful to 'ravenhill_final'
+[23-Sep-2025 02:23:29 Europe/Berlin] Database connection successful to 'ravenhill_final'
+[23-Sep-2025 02:23:29 Europe/Berlin] Failed to insert loyalty points: Cannot add or update a child row: a foreign key constraint fails (`ravenhill_final`.`loyalty_program`, CONSTRAINT `loyalty_program_ibfk_2` FOREIGN KEY (`order_id`) REFERENCES `orders` (`order_id`))
+[23-Sep-2025 02:23:29 Europe/Berlin] Order inserted check: 1 rows found for order_id: ORD-68D1E881E31A3
+[23-Sep-2025 02:23:32 Europe/Berlin] Database connection successful to 'ravenhill_final'
+[23-Sep-2025 02:23:32 Europe/Berlin] Fetching orders for user_id: user_66f1a8e0c7f9d
+[23-Sep-2025 02:23:32 Europe/Berlin] Found 1 orders for user
+[23-Sep-2025 03:09:47 Europe/Berlin] Database connection successful to 'ravenhill_final'
+[23-Sep-2025 03:09:47 Europe/Berlin] Fetching orders for user_id: user_66f1a8e0c7f9d
+[23-Sep-2025 03:09:47 Europe/Berlin] Found 1 orders for user
+[23-Sep-2025 03:54:32 Europe/Berlin] Database connection successful to 'ravenhill_final'
+[23-Sep-2025 03:54:41 Europe/Berlin] Database connection successful to 'ravenhill_final'
+[23-Sep-2025 03:54:41 Europe/Berlin] Failed to insert loyalty points: Cannot add or update a child row: a foreign key constraint fails (`ravenhill_final`.`loyalty_program`, CONSTRAINT `loyalty_program_ibfk_2` FOREIGN KEY (`order_id`) REFERENCES `orders` (`order_id`))
+[23-Sep-2025 03:54:41 Europe/Berlin] Order inserted check: 1 rows found for order_id: ORD-68D1FDE148D34
+[23-Sep-2025 03:54:41 Europe/Berlin] Database connection successful to 'ravenhill_final'
+[23-Sep-2025 03:54:43 Europe/Berlin] Database connection successful to 'ravenhill_final'
+[23-Sep-2025 03:54:43 Europe/Berlin] Fetching orders for user_id: user_66f1a8e0c7f9d
+[23-Sep-2025 03:54:43 Europe/Berlin] Found 2 orders for user
+[23-Sep-2025 03:55:24 Europe/Berlin] Database connection successful to 'ravenhill_final'
+[23-Sep-2025 03:55:24 Europe/Berlin] Fetching orders for user_id: user_66f1a8e0c7f9d
+[23-Sep-2025 03:55:24 Europe/Berlin] Found 2 orders for user
+[23-Sep-2025 03:55:28 Europe/Berlin] Database connection successful to 'ravenhill_final'
+[23-Sep-2025 03:55:28 Europe/Berlin] Fetching orders for user_id: user_66f1a8e0c7f9d
+[23-Sep-2025 03:55:28 Europe/Berlin] Found 2 orders for user
+[23-Sep-2025 03:56:37 Europe/Berlin] Database connection successful to 'ravenhill_final'
+[23-Sep-2025 03:56:40 Europe/Berlin] Database connection successful to 'ravenhill_final'
+[23-Sep-2025 03:56:40 Europe/Berlin] Failed to insert loyalty points: Cannot add or update a child row: a foreign key constraint fails (`ravenhill_final`.`loyalty_program`, CONSTRAINT `loyalty_program_ibfk_2` FOREIGN KEY (`order_id`) REFERENCES `orders` (`order_id`))
+[23-Sep-2025 03:56:40 Europe/Berlin] Order inserted check: 1 rows found for order_id: ORD-68D1FE58D6AB7
+[23-Sep-2025 03:56:40 Europe/Berlin] Database connection successful to 'ravenhill_final'
+[23-Sep-2025 03:56:43 Europe/Berlin] Database connection successful to 'ravenhill_final'
+[23-Sep-2025 03:56:43 Europe/Berlin] Fetching orders for user_id: user_66f1a8e0c7f9d
+[23-Sep-2025 03:56:43 Europe/Berlin] Found 3 orders for user
+[23-Sep-2025 03:58:04 Europe/Berlin] Database connection successful to 'ravenhill_final'
+[23-Sep-2025 03:58:07 Europe/Berlin] Database connection successful to 'ravenhill_final'
+[23-Sep-2025 03:58:07 Europe/Berlin] Failed to insert loyalty points: Cannot add or update a child row: a foreign key constraint fails (`ravenhill_final`.`loyalty_program`, CONSTRAINT `loyalty_program_ibfk_2` FOREIGN KEY (`order_id`) REFERENCES `orders` (`order_id`))
+[23-Sep-2025 03:58:07 Europe/Berlin] Order inserted check: 1 rows found for order_id: ORD-68D1FEAF65027
+[23-Sep-2025 03:58:09 Europe/Berlin] Database connection successful to 'ravenhill_final'
+[23-Sep-2025 03:58:09 Europe/Berlin] Fetching orders for user_id: user_66f1a8e0c7f9d
+[23-Sep-2025 03:58:09 Europe/Berlin] Found 4 orders for user
+[23-Sep-2025 04:03:43 Europe/Berlin] Database connection successful to 'ravenhill_final'
+[23-Sep-2025 04:03:43 Europe/Berlin] Fetching orders for user_id: user_66f1a8e0c7f9d
+[23-Sep-2025 04:03:43 Europe/Berlin] Found 4 orders for user
+[23-Sep-2025 04:03:51 Europe/Berlin] Database connection successful to 'ravenhill_final'
+[23-Sep-2025 04:03:54 Europe/Berlin] Database connection successful to 'ravenhill_final'
+[23-Sep-2025 04:03:54 Europe/Berlin] Failed to insert loyalty points: Cannot add or update a child row: a foreign key constraint fails (`ravenhill_final`.`loyalty_program`, CONSTRAINT `loyalty_program_ibfk_2` FOREIGN KEY (`order_id`) REFERENCES `orders` (`order_id`))
+[23-Sep-2025 04:03:54 Europe/Berlin] Order inserted check: 1 rows found for order_id: ORD-68D2000A11066
+[23-Sep-2025 04:03:54 Europe/Berlin] Database connection successful to 'ravenhill_final'
+[23-Sep-2025 04:03:56 Europe/Berlin] Database connection successful to 'ravenhill_final'
+[23-Sep-2025 04:03:56 Europe/Berlin] Fetching orders for user_id: user_66f1a8e0c7f9d
+[23-Sep-2025 04:03:56 Europe/Berlin] Found 5 orders for user
+[23-Sep-2025 04:03:58 Europe/Berlin] Database connection successful to 'ravenhill_final'
+[23-Sep-2025 04:03:58 Europe/Berlin] Fetching orders for user_id: user_66f1a8e0c7f9d
+[23-Sep-2025 04:03:58 Europe/Berlin] Found 5 orders for user
+[23-Sep-2025 04:07:08 Europe/Berlin] Database connection successful to 'ravenhill_final'
+[23-Sep-2025 04:07:08 Europe/Berlin] Fetching orders for user_id: user_66f1a8e0c7f9d
+[23-Sep-2025 04:07:08 Europe/Berlin] Found 5 orders for user
+[23-Sep-2025 08:54:36 Europe/Berlin] Database connection successful to 'ravenhill_final'
+[23-Sep-2025 08:54:40 Europe/Berlin] Database connection successful to 'ravenhill_final'
+[23-Sep-2025 08:54:40 Europe/Berlin] Failed to insert loyalty points: Cannot add or update a child row: a foreign key constraint fails (`ravenhill_final`.`loyalty_program`, CONSTRAINT `loyalty_program_ibfk_2` FOREIGN KEY (`order_id`) REFERENCES `orders` (`order_id`))
+[23-Sep-2025 08:54:40 Europe/Berlin] Order inserted check: 1 rows found for order_id: ORD-68D244305EE6B
+[23-Sep-2025 08:54:42 Europe/Berlin] Database connection successful to 'ravenhill_final'
+[23-Sep-2025 08:54:42 Europe/Berlin] Fetching orders for user_id: user_66f1a8e0c7f9d
+[23-Sep-2025 08:54:42 Europe/Berlin] Found 1 orders for user
+[23-Sep-2025 09:07:20 Europe/Berlin] Database connection successful to 'ravenhill_final'
+[23-Sep-2025 09:07:20 Europe/Berlin] Fetching orders for user_id: user_66f1a8e0c7f9d
+[23-Sep-2025 09:07:20 Europe/Berlin] Found 1 orders for user
+[23-Sep-2025 15:32:40 Europe/Berlin] Database connection successful to 'ravenhill_final'
+[23-Sep-2025 15:32:54 Europe/Berlin] Database connection successful to 'ravenhill_final'
+[23-Sep-2025 15:32:54 Europe/Berlin] Failed to insert loyalty points: Cannot add or update a child row: a foreign key constraint fails (`ravenhill_final`.`loyalty_program`, CONSTRAINT `loyalty_program_ibfk_2` FOREIGN KEY (`order_id`) REFERENCES `orders` (`order_id`))
+[23-Sep-2025 15:32:55 Europe/Berlin] Order inserted check: 1 rows found for order_id: ORD-68D2A186EE698
+[23-Sep-2025 15:32:57 Europe/Berlin] Database connection successful to 'ravenhill_final'
+[23-Sep-2025 15:32:57 Europe/Berlin] Fetching orders for user_id: user_66f1a8e0c7f9d
+[23-Sep-2025 15:32:57 Europe/Berlin] Found 2 orders for user
+[23-Sep-2025 15:33:04 Europe/Berlin] Database connection successful to 'ravenhill_final'
+[23-Sep-2025 15:33:04 Europe/Berlin] Fetching orders for user_id: user_66f1a8e0c7f9d
+[23-Sep-2025 15:33:04 Europe/Berlin] Found 2 orders for user
+[25-Sep-2025 14:06:13 Europe/Berlin] Database connection successful to 'ravenhill_final'
+[25-Sep-2025 14:06:18 Europe/Berlin] Database connection successful to 'ravenhill_final'
+[25-Sep-2025 14:06:18 Europe/Berlin] Failed to insert loyalty points: Cannot add or update a child row: a foreign key constraint fails (`ravenhill_final`.`loyalty_program`, CONSTRAINT `loyalty_program_ibfk_2` FOREIGN KEY (`order_id`) REFERENCES `orders` (`order_id`))
+[25-Sep-2025 14:06:18 Europe/Berlin] Order inserted check: 1 rows found for order_id: ORD-68D5303A35698
+[25-Sep-2025 14:06:20 Europe/Berlin] Database connection successful to 'ravenhill_final'
+[25-Sep-2025 14:06:20 Europe/Berlin] Fetching orders for user_id: user_68d52b90c1be76.29642718
+[25-Sep-2025 14:06:20 Europe/Berlin] Found 1 orders for user
+[25-Sep-2025 14:06:27 Europe/Berlin] Database connection successful to 'ravenhill_final'
+[25-Sep-2025 14:06:27 Europe/Berlin] Fetching orders for user_id: user_68d52b90c1be76.29642718
+[25-Sep-2025 14:06:27 Europe/Berlin] Found 1 orders for user
+[25-Sep-2025 15:27:33 Europe/Berlin] Database connection successful to 'ravenhill_final'
+[25-Sep-2025 15:27:36 Europe/Berlin] Database connection successful to 'ravenhill_final'
+[25-Sep-2025 15:27:36 Europe/Berlin] Failed to insert loyalty points: Cannot add or update a child row: a foreign key constraint fails (`ravenhill_final`.`loyalty_program`, CONSTRAINT `loyalty_program_ibfk_2` FOREIGN KEY (`order_id`) REFERENCES `orders` (`order_id`))
+[25-Sep-2025 15:27:36 Europe/Berlin] Order inserted check: 1 rows found for order_id: ORD-68D543489F0A8
+[25-Sep-2025 15:27:38 Europe/Berlin] Database connection successful to 'ravenhill_final'
+[25-Sep-2025 15:27:38 Europe/Berlin] Fetching orders for user_id: staff1
+[25-Sep-2025 15:27:38 Europe/Berlin] Found 1 orders for user
+[25-Sep-2025 16:32:34 Europe/Berlin] Database connection successful to 'ravenhill_final'
+[25-Sep-2025 16:32:34 Europe/Berlin] Fetching orders for user_id: user_68d55242253956.76243179
+[25-Sep-2025 16:32:34 Europe/Berlin] Found 0 orders for user
+[26-Sep-2025 10:39:59 Europe/Berlin] Database connection successful to 'ravenhill_final'
+[26-Sep-2025 10:39:59 Europe/Berlin] Fetching orders for user_id: STF4692
+[26-Sep-2025 10:39:59 Europe/Berlin] Found 0 orders for user
