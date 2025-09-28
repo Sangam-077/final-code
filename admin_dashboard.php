@@ -817,7 +817,7 @@ if (isset($_POST['save_user_preferences'])) {
                 <h1>Admin Dashboard</h1>
                 <div class="user-info">
                     <span>Welcome Admin</span>
-                    <a href="admin_login.php" class="logout-btn"><i class="fas fa-sign-out-alt"></i> Logout</a>
+                    <a href="login.php" class="logout-btn"><i class="fas fa-sign-out-alt"></i> Logout</a>
                 </div>
             </div>
 
