@@ -58,9 +58,9 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['checkout'])) {
                         <i class="fas fa-chart-bar"></i>
                     </a>
                     <?php if (isset($_SESSION['user_id'])): ?>
-                        <a href="logout.php" class="header-icon" title="Logout">
-                            <i class="fas fa-sign-out-alt"></i>
-                        </a>
+                        <a href="../login.php?logout=1" class="header-icon" title="Logout">
+    <i class="fas fa-sign-out-alt"></i>
+</a>
                     <?php endif; ?>
                 </div>
             </div>
