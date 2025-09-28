@@ -1228,13 +1228,13 @@ document.addEventListener('DOMContentLoaded', function() {
       
       // Submit via AJAX
       const formData = new FormData(this);
-      fetch('/book_table.php', {
-        method: 'POST',
-        body: formData,
-        headers: {
-          'X-Requested-With': 'XMLHttpRequest'
-        }
-      })
+      fetch('book_table.php', {
+  method: 'POST',
+  body: formData,
+  headers: {
+    'X-Requested-With': 'XMLHttpRequest'
+  }
+})
       .then(res => {
         if (!res.ok) {
           throw new Error(`HTTP error! Status: ${res.status}`);
