@@ -81,6 +81,17 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             $error = "Database error: " . $e->getMessage();
         }
     }
+
+    // Handle AJAX requests
+    if (isset($_SERVER['HTTP_X_REQUESTED_WITH']) && strtolower($_SERVER['HTTP_X_REQUESTED_WITH']) === 'xmlhttprequest') {
+        $response = [
+            'status' => isset($success) ? 'success' : (isset($error) ? 'error' : 'unknown'),
+            'message' => isset($success) ? $success : (isset($error) ? $error : 'Unknown error occurred.')
+        ];
+        header('Content-Type: application/json');
+        echo json_encode($response);
+        exit;
+    }
 }
 ?>
 
@@ -297,7 +308,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
               <i class="fas fa-map-marker-alt"></i>
               <span>Prahran Market, Melbourne</span>
             </li>
-            <li class="class-item">
+            <li class="contact-item">
               <i class="fas fa-phone-alt"></i>
               <span>(02) 123-4567</span>
             </li>
